@@ -8,7 +8,7 @@ Apart from development, I have also acquired quite good problem solving skills b
 
 **🚀 Skillset:**<br>
 - Full Stack Development (HTML, CSS, Javascript, Typescript, React js, Redux, Zustand, Node js, Express js)
-- - Database Management: MongoDB, SQL (MySQL)
+- Database Management: MongoDB, SQL (MySQL)
 - Competitive Programming: CodeChef 2★, 1680+ @LeetCode Rating
 - Data Structure & Algorithm: 500+ LeetCode problems solved
 <br>
